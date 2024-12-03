@@ -11,7 +11,8 @@ Experienced data analyst with expertise in Python, SQL, Machine Learning, Micros
 Here are some of the key projects featured on my portfolio:
 
 1. Nigeria Economic and Demographic Dashboard: The app allows users to explore trends, compare data across years, and analyze relationships between various indicators in an interactive and user-friendly interface.
-2. My-Books-App-DB: t allows users to view, add, modify, and delete book records stored in a MySQL database. 
+2. My-Books-App-DB: It allows users to view, add, modify, and delete book records stored in a MySQL database.
+3. Blog Generator AI: A blog to generate post based on user request using streamlit and gemini ai.
   
 
 ## Skills
@@ -20,7 +21,8 @@ Here are some of the key projects featured on my portfolio:
 - Python
 - SQL
 - Machine Learning
-- Generative A1
+- Generative AI
+- Microsoft Fabric
 
 ## Contact
 
