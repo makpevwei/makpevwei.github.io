@@ -1,4 +1,4 @@
-# Your Name - Data Analyst Portfolio
+# Akpevwoghene I - Data Analyst Portfolio
 
 Welcome to my data analyst portfolio! This repository contains the source code for my personal website, showcasing my skills, projects, and professional information.
 
@@ -10,9 +10,13 @@ Experienced data analyst with expertise in Python, SQL, Machine Learning, Micros
 
 Here are some of the key projects featured on my portfolio:
 
-1. Nigeria Economic and Demographic Dashboard: The app allows users to explore trends, compare data across years, and analyze relationships between various indicators in an interactive and user-friendly interface.
-2. My-Books-App-DB: It allows users to view, add, modify, and delete book records stored in a MySQL database.
-3. Blog Generator AI: A blog to generate post based on user request using streamlit and gemini ai.
+1. **Income Prediction App**: A machine learning app built with Streamlit that predicts whether an individual's income is `<=50K` or `>50K` based on demographic and work-related features. [View App](https://income-prediction-app.streamlit.app) | [Source Code](https://github.com/your-repo/income-prediction-app)
+
+2. **Nigeria Economic and Demographic Dashboard**: An interactive dashboard enabling users to explore trends, compare data across years, and analyze relationships between various indicators in a user-friendly interface.
+
+3. **My-Books-App-DB**: A CRUD application that allows users to view, add, modify, and delete book records stored in a MySQL database.
+
+4. **Blog Generator AI**: A Streamlit app that generates blog posts based on user input using Gemini AI. 
   
 
 ## Skills
