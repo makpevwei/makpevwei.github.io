@@ -1,6 +1,6 @@
 # Akpevwoghene I - Data Analyst Portfolio
 
-Welcome to my data analyst portfolio! This repository contains the source code for my personal website, showcasing my skills, projects, and professional information.
+Welcome to my data analyst and machine learning portfolio! This repository contains the source code for my personal website, showcasing my skills, projects, and professional information.
 
 ## About Me
 
