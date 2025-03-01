@@ -16,7 +16,9 @@ Here are some of the key projects featured on my portfolio:
 
 3. **My-Books-App-DB**: A CRUD application that allows users to view, add, modify, and delete book records stored in a MySQL database.
 
-4. **Blog Generator AI**: A Streamlit app that generates blog posts based on user input using Gemini AI. 
+4. **Blog Generator AI**: A Streamlit app that generates blog posts based on user input using Gemini AI.
+
+5. **AI Summarizer**: A Gradio app summarizes users text. 
   
 
 ## Skills
