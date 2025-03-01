@@ -18,7 +18,7 @@ Here are some of the key projects featured on my portfolio:
 
 4. **Blog Generator AI**: A Streamlit app that generates blog posts based on user input using Gemini AI.
 
-5. **AI Summarizer**: A Gradio app summarizes users text. 
+5. **AI Summarizer**: A Gradio app that summarizes users text and PDF file. 
   
 
 ## Skills
