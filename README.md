@@ -4,7 +4,7 @@ Welcome to my data analyst and machine learning portfolio! This repository conta
 
 ## About Me
 
-Experienced data analyst with expertise in Python, SQL, Machine Learning, Microsoft Fabric. Passionate about turning data into actionable insights.
+Experienced data analyst and machine learning engineer with expertise in Python, SQL, Machine Learning, Microsoft Fabric. Passionate about turning data into actionable insights.
 
 ## Projects
 
