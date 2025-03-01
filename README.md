@@ -18,7 +18,9 @@ Here are some of the key projects featured on my portfolio:
 
 4. **Blog Generator AI**: A Streamlit app that generates blog posts based on user input using Gemini AI.
 
-5. **AI Summarizer**: A Gradio app that summarizes users text and PDF file. 
+5. **AI Summarizer**: A Gradio app that summarizes users text and PDF file.
+
+6. **Resume and Cover Letter Generator**: A Streamlit app that generates resume and cover letter using AI. 
   
 
 ## Skills
